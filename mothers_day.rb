@@ -10,3 +10,7 @@
 # end
 
 
+def mothers_day(x="Mom") 
+  "Happy Mother's Day, #{x}!"
+end
+
